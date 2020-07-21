@@ -1,3 +1,5 @@
+# FYI
+
 # Understanding NN
 
 This repository is intended to be a tutorial of various DNN interpretation and explanation techniques. Explanation of the theoretical background as well as step-by-step Tensorflow implementation for practical usage are both covered in the Jupyter Notebooks. I did not include explanation for techniques for which I thought the algorithm as well as the explanation of the original paper was clear.
